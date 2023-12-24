@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/willdd56/willdd56.github.io.git/static/css/main.1327b5d0.css",
+    "main.js": "/willdd56/willdd56.github.io.git/static/js/main.6ff3cc52.js",
+    "index.html": "/willdd56/willdd56.github.io.git/index.html",
+    "main.1327b5d0.css.map": "/willdd56/willdd56.github.io.git/static/css/main.1327b5d0.css.map",
+    "main.6ff3cc52.js.map": "/willdd56/willdd56.github.io.git/static/js/main.6ff3cc52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1327b5d0.css",
+    "static/js/main.6ff3cc52.js"
+  ]
+}
